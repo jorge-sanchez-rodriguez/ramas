@@ -9,3 +9,7 @@
   color:rgb(255, 0, 13);
   font-size: 1.4rem;
 }
+.externo{
+  text-decoration: none;
+  font-variant: small-caps;
+}
